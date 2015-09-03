@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nuevo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compartir">compartir</string>
+    <string name="title_activity_favorito">favorito</string>
+    <string name="title_activity_calificar">calificar</string>
+    <string name="title_activity_splash">splash</string>
+</resources>
